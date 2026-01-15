@@ -3,4 +3,6 @@ gunicorn
 xlwings
 pandas
 gspread
+oauth2client
+
 
